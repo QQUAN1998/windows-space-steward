@@ -1,0 +1,4 @@
+interface:
+  display_name: "Windows Space Steward"
+  short_description: "Clean, migrate, and deduplicate C drive."
+  default_prompt: "Use $windows-space-steward to scan my C and D drives, preview cleanup and migration options, and explain impacts before making changes."
