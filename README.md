@@ -1,3 +1,7 @@
+[English](README.en.md)
+
+![空间治理流程图](docs/images/overview.png)
+
 # Windows Space Steward
 
 Windows Space Steward 是一个面向 Codex 的 Windows 磁盘空间治理 Skill。它不是传统意义上的“一键清理垃圾”工具，而是帮助 AI 代理在 Windows 电脑上安全地完成 C 盘体检、清理预览、迁移规划、重复文件识别和可追溯处理。
