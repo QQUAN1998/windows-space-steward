@@ -1,3 +1,31 @@
+# C 盘快满了，先看清再动手
+
+[English](README.en.md) · [在线图示](https://qquan1998.github.io/windows-space-steward/) · [反馈问题](https://github.com/QQUAN1998/windows-space-steward/issues)
+
+![15 秒功能演示](docs/images/demo.gif)
+
+> 适合使用 Windows 和 Codex、希望整理磁盘空间的用户。 演示只讲处理流程，不运行磁盘扫描，也不删除或移动文件。
+
+<a id="quick-start"></a>
+
+## 三步开始
+
+1. 下载并解压仓库，将其中 windows-space-steward 文件夹复制到自己的 Codex skills 目录。
+2. 重新打开 Codex，发送下方示例指令。
+3. 先查看候选项、大小与影响；只确认自己需要的具体操作。
+
+```text
+Use $windows-space-steward to inspect C: and D:.
+Preview cleanup, migration and duplicates.
+Explain impacts and wait for my confirmation.
+```
+
+Skills path / 技能目录：`%USERPROFILE%\.codex\skills\`。
+
+[中英文推广文案](docs/LAUNCH.md) · [本次文档更新](docs/UPDATES.md) · [版本记录方法](docs/RELEASING.md)
+
+---
+
 [English](README.en.md)
 
 ![空间治理流程图](docs/images/overview.png)

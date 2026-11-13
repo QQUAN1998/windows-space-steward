@@ -1,3 +1,31 @@
+# Understand disk pressure before deleting
+
+[简体中文](README.md) · [Visual tour](https://qquan1998.github.io/windows-space-steward/) · [Report an issue](https://github.com/QQUAN1998/windows-space-steward/issues)
+
+![15-second visual tour](docs/images/demo.gif)
+
+> For Windows and Codex users managing disk space. This tour explains the workflow. It does not scan drives, delete files or move data.
+
+<a id="quick-start"></a>
+
+## Quick start
+
+1. Download and unzip the repository; copy its windows-space-steward folder into your Codex skills directory.
+2. Restart Codex and send the example prompt below.
+3. Review candidates, sizes and impacts, then approve only the specific actions you want.
+
+```text
+Use $windows-space-steward to inspect C: and D:.
+Preview cleanup, migration and duplicates.
+Explain impacts and wait for my confirmation.
+```
+
+Skills path / 技能目录：`%USERPROFILE%\.codex\skills\`。
+
+[Bilingual launch copy](docs/LAUNCH.md) · [Documentation changes](docs/UPDATES.md) · [Release checklist](docs/RELEASING.md)
+
+---
+
 # Windows Space Steward
 
 [简体中文](README.md)
